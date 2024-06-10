@@ -1,0 +1,22 @@
+.main {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-bottom: 10px;
+    background-image: url('./pizza_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100px;
+}
+
+.input {
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 30px;
+    width: 40%;
+}
+
+.button {
+    height: 40px;
+    width: 10%;
+}
